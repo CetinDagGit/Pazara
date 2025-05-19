@@ -1,4 +1,4 @@
-A .Net Core Api for Authentication. (Minimal- Rest Api)
-Bcrypt hashing
+.Net Core Api for Authentication. (Minimal- Rest Api - MicroService)
+BCrypt hashing
 Jwt token
 PostgreSql
